@@ -128,7 +128,7 @@ function findUniqueSubsetScales(tet, scalePattern, subsetScalePattern, printToKe
       });
     }
   }
-console.log(allScales);  
+ 
   const filteredScales = allScales
     .filter(scaleObj => {
       return scaleObj.subScale.every(note => fullScale.includes(note));
