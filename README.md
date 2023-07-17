@@ -1,5 +1,5 @@
 # OverlappingPentatonics
-Javascript function that produces a list of pentatonic scales that overlap and coincide with a seven-note scale, but can generalize to any subscales within a scale.
+Javascript function that produces a list of pentatonic scales that overlap and coincide with a diatonic scale, but can generalize to any subscales within a scale.
 
 ```
 // Example usage:
